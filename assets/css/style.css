@@ -1,0 +1,74 @@
+#viewport{
+	font-family: arial, sans-serif;
+	background-color: #fff;
+	color: #222;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.header{
+	margin: 10px 10px auto auto;
+	width: 300px;
+	}
+
+li {
+	display: inline;
+	padding-right: 5px;
+}
+
+ul {
+	list-style-type: none;
+	margin-bottom: 150px;
+}
+
+.Bma-but{
+
+}
+
+.Bma-but:hover{
+
+}
+
+.Img-but{
+
+}
+
+.Img-but:hover{
+
+}
+
+.Boogle-picture{
+	width:400px;
+	margin:auto;
+}
+
+.input1{
+	margin:40px auto auto auto;
+	width:500px;
+	height:40px;
+	border-radius:3px;
+	border:1px solid LightGrey;
+}
+
+.input1:hover{
+	box-shadow: 1px 1px grey;
+}
+
+
+.Button1{
+	position:relative;
+	margin:30px auto auto auto;
+	width:140px;
+	height:30px;
+	background-color: HoneyDew;
+	border:none;
+	font-weight:bold;
+}
+
+.Button1:hover{
+	border:1px solid LightGrey;
+}
+.singin{
+    background-color: #4885ed;
+    color: white;
+}
